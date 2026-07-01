@@ -1,7 +1,5 @@
 # Rain Keyboard Layout
 
-A custom English keyboard layout designed by ibrahimab000.
-
 ```
 rain
   f d l g v  q r u o ,
